@@ -97,6 +97,7 @@
 
 🧡 W. _**CORNER**_ - [김지민](https://github.com/jimin-ni)  
 🧡 20240704_수정. _**CORNER**_ - [박유정](https://github.com/qkrdbwjd)  
-🧡 20240914_수정. _**CORNER**_ - [정지민](https://github.com/sunflwwer)
+🧡 20240914_수정. _**CORNER**_ - [정지민](https://github.com/sunflwwer)  
 🧡 20250919_수정. _**CORNER**_ - [심수빈](https://github.com/ssxbin)
+
 
